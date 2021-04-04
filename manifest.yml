@@ -2,3 +2,4 @@ applications:
 - name: nRed
   random-route: true
   memory: 128M
+  domain: eu-gb.cloud.ibm.com
